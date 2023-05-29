@@ -1,6 +1,19 @@
 # Getting Started with Create React App
+Deployed link https://zippy-moonbeam-e3ddd5.netlify.app/
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+
+## Screenshots 
+![image](https://github.com/17anguyen/react-portfolio/assets/43556891/f4944099-18c2-482a-a2c9-47b2e35412cb)
+![image](https://github.com/17anguyen/react-portfolio/assets/43556891/2b102fff-99da-40c5-9e5a-56f35b8bd045)
+![image](https://github.com/17anguyen/react-portfolio/assets/43556891/9b2d9b93-6241-495b-9ba8-a5960fed9e19)
+![image](https://github.com/17anguyen/react-portfolio/assets/43556891/fe537eaf-82a0-414f-a630-2c8587ad6ea5)
+![image](https://github.com/17anguyen/react-portfolio/assets/43556891/45fd6c60-e70d-411e-8d48-65cd078759c8)
+
+
+
+
 
 ## Available Scripts
 
